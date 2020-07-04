@@ -1,12 +1,12 @@
-# Readme Generator
+# 
 
-[![License: MPL 2.0](https://img.shields.io/badge/License-MPL%202.0-brightgreen.svg)]
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
-Create markup document for your project
 
- report bug
 
-Table of content
+ 
+
+##Table of content
 * [Installation Instruction](#Installation) 
 
  * [Usage Instruction](#UsageInstruction)
@@ -19,6 +19,5 @@ Table of content
 
 ## <a name ='UsageInstruction'>Usage</a>
 
- [Github Page](https://github.com/ak0501)
+ [Github Page](https://github.com/)
 
-avinashkhanal@gmail.com

@@ -1,9 +1,5 @@
 // jshint esversion:6
 
-const inquirer = require("inquirer");
-const fs = require("fs");
-const util = require("util");
-
 const questions = [
 
     {
@@ -43,5 +39,5 @@ const questions = [
         choices: ["MIT", "Mozilla", "Apache", "wtfpl", "unlicense"]
     }
 ];
-console.log(questions.description);
+
 module.exports = questions;

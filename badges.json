@@ -1,8 +1,7 @@
 {
-    "MIT": "[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)]",
-    "Apache": "[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)]",
+    "MIT": "![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)",
+    "Apache": "![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)",
     "Mozilla": "[![License: MPL 2.0](https://img.shields.io/badge/License-MPL%202.0-brightgreen.svg)]",
     "unlicense": "[![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)]",
     "wtfpl": "[![License: WTFPL](https://img.shields.io/badge/License-WTFPL-brightgreen.svg)]"
 }
-

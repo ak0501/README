@@ -1,5 +1,5 @@
 // jshint esversion:6
-const inquirer = require("inquirer");
+
 const fs = require("fs");
 const util = require("util");
 const licenceTyp = require("./badges");
@@ -9,10 +9,10 @@ module.exports = function (response) {
 
 
 
-    const installationLink = `## <a name = 'Installation'>Reference</a>`;
+    const installationLink = `## <a href='#Installation'>Reference</a>`;
     const usage = `## <a name ='UsageInstruction'>Usage</a>`;
     const test = `## <a name = 'TestInstruction'>Test</a>`;
-    const tableOfContents = `Table of content
+    const tableOfContents = `##Table of content
 * [Installation Instruction](#Installation) 
 
  * [Usage Instruction](#UsageInstruction)
