@@ -11,7 +11,7 @@ module.exports = function (response) {
 
     const installationLink = `## <a name = 'Installation'>Reference</a>`;
     const usage = `## <a name ='UsageInstruction'>Usage</a>`;
-    const test = `## <a name = 'TestInstruction'>Test</a>`;
+    // const test = `## <a name = 'TestInstruction'>Test</a>`;
     const tableOfContents = `Table of content
 * [Installation Instruction](#Installation) 
 
@@ -23,5 +23,5 @@ module.exports = function (response) {
 
 
 
-    return asyncFilewrite("Readme.md", `# ${response.title}\n\n${response.license}\n\n${response.description}\n\n ${response.instruction}\n\n ${test}\n\n${tableOfContents}\n\n ${installationLink}\n\n${usage}\n\n ${githubLink}\n\n${response.emailaddress}`);
+    return asyncFilewrite("Readme.md", `# ${response.title}\n\n${response.license}\n\n${response.description}\n\n ${response.instruction}\n\n ${response.test}\n\n${tableOfContents}\n\n ${installationLink}\n\n${usage}\n\n ${githubLink}\n\n${response.emailaddress}`);
 };

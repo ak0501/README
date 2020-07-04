@@ -1,12 +1,12 @@
-# kghilgkjhs;hfafkljhakshfhjdhkasfklhas;flhaslf
+# ReadMe Generator
 
 [![License: MPL 2.0](https://img.shields.io/badge/License-MPL%202.0-brightgreen.svg)]
 
-jhadkjhadkljhasfjhdkljhfdkjasdkjasdkjashknad;khasdkljgflkjsbcjsbvuidaghfpuiaewghfawhvgibhskljbhasdkljfghaw;uifhasdkjfdasghflashfdkjashf;
+Create markdown readme document
 
- hadhahsdhadhashdhasdhashdhadhahsdhadaksdkakfjklqjewifewighfiwehb
+ report bug 
 
- ## <a name = 'TestInstruction'>Test</a>
+ undefined
 
 Table of content
 * [Installation Instruction](#Installation) 
@@ -19,6 +19,6 @@ Table of content
 
 ## <a name ='UsageInstruction'>Usage</a>
 
- [Github Page](https://github.com/hjahd)
+ [Github Page](https://github.com/ak0501)
 
-kahjdskljad
+avinashkhanal@gmail.com
