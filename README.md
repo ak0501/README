@@ -1,12 +1,10 @@
-# ReadMe Generator
+# Readme Generator
 
 [![License: MPL 2.0](https://img.shields.io/badge/License-MPL%202.0-brightgreen.svg)]
 
-Create markdown readme document
+Create markup document for your project
 
- report bug 
-
- undefined
+ report bug
 
 Table of content
 * [Installation Instruction](#Installation) 
@@ -14,6 +12,8 @@ Table of content
  * [Usage Instruction](#UsageInstruction)
 
  * [Test Instruction](#TestInstruction)
+
+ ## <a name = 'TestInstruction'>Test</a>
 
  ## <a name = 'Installation'>Reference</a>
 
